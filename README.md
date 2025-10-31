@@ -1,10 +1,10 @@
 # system_bank_labs
 System Bank in Python
 
-# 🏦 Sistema Bancário em Python — Bootcamp DIO Backend Python
+# System Bank in Python 
 
-Este projeto apresenta a evolução de um sistema bancário desenvolvido em Python durante o Bootcamp da DIO de Backend Python.
-O repositório contém duas versões do sistema, cada uma explorando diferentes paradigmas e técnicas de programação.
+Projeto  de um sistema bancário desenvolvido em Python durante .
+O repositório explora diferentes paradigmas e técnicas de programação.
 
 ---
 
