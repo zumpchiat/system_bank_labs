@@ -1,6 +1,3 @@
-# system_bank_labs
-System Bank in Python
-
 # System Bank in Python 
 
 Projeto  de um sistema bancário desenvolvido em Python durante .
